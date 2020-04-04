@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_symbolic_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\symbolic_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_event.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\event.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_declarative_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\declarative_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgrond.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\backgrond.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_dependent_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\dependent_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_gui_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\gui_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parallel.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\parallel.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logic.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\logic.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_functional_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\functional_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_concurrent_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\concurrent_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dependent.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\dependent.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_declarative.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\declarative.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_automata.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable-v24\\automata.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_concurrent.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\concurrent.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imperative.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\imperative.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_structured.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\structured.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_event_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\event_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oodp.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\oodp.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gui.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\gui.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_procedural.jpg.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\procedural.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_imperative_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\imperative_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_parallel_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\parallel_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgrnd.jpg.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\backgrnd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_symbolic.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\symbolic.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_network_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\network_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_structured_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\structured_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_logic_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\logic_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_functional.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\functional.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\layout_automata_fragment.xml.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\layout\\automata_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\build\\intermediates\\res\\merged\\debug\\drawable_network.png.flat",
+        "source": "C:\\Users\\Adarsh Shrivastav\\AndroidStudioProjects\\ProgrammingParadigms\\app\\src\\main\\res\\drawable\\network.png"
+    }
+]
